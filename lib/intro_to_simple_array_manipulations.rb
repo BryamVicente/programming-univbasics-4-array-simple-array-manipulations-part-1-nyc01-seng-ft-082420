@@ -18,7 +18,7 @@ end
 
 def using_shift(array)
   array.shift == array[0]
-return array[0]
+return array
 end
 
 def shift_with_args(array)
